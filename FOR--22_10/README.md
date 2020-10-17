@@ -1,2 +1,3 @@
 # TPA--for
-Repositorio destinado aos exercicios de TPA. :)
+> EXERCICIOS (ESTRUTURA DE REPETIÇÃO FOR) 
+
